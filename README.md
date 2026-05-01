@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Kamini Khandare<br><br>🎓 B.Tech (CSE - AIML) | 3rd Year Student<br>📍 Parseoni, Nagpur, India<br>💻 Aspiring Frontend & Web Developer<br><br>---<br><br>## 🚀 About Me<br><br>I am a Computer Science (AIML) student with a strong interest in technology and problem-solving. I enjoy building real-world projects, especially in areas like AI and sustainability.<br><br>I am passionate about learning new technologies and continuously improving my skills. My goal is to develop impactful solutions and grow as a professional in the tech industry.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 💻 Languages<br><br>C • Java • Python • JavaScript<br><br>### ⚙️ Frameworks & Libraries<br><br>React (Basic) • Python Libraries<br><br>### 🧰 Tools & Technologies<br><br>HTML • SQL • Git & GitHub • VS Code<br><br>### 🎨 Other Skills<br><br>UI Designing • Color Analysis<br><br>---<br><br>## 📂 Projects<br><br>### 📧 EmailBot<br><br>An automated system that sends emails using predefined templates and user inputs for efficient communication.<br>**Tech Stack:** HTML, CSS, JavaScript, React (Vite), Node.js<br><br>---<br><br>### 🚨 Online Crime Reporting System<br><br>A web-based platform for reporting and tracking crime complaints digitally.<br>**Tech Stack:** Python, SQL Database, UI Design<br><br>---<br><br>### ♻️ E-Waste Recycling System<br><br>An image-based system that identifies e-waste components and suggests reusable or recyclable parts.<br>**Tech Stack:** Python, Image Processing, Machine Learning (Basic), Database<br><br>---<br><br>### 🥗 Food Quality Analysis System<br><br>An image-based system that estimates nutrient/chemical content in food to promote healthier consumption.<br>**Tech Stack:** Python, Image Processing, Machine Learning (Basic), Database<br><br>---<br><br>## 🏆 Achievements<br><br>* 🥇 12th Board Topper<br>* 📜 Tech Forum Certificate<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Kamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaminikhandare51\&show_icons=true\&theme=tokyonight)<br><br><br>---<br><br>## ✨ Fun Facts<br><br>* 🎨 I enjoy designing and working with colors<br>* 🤖 Interested in AI + real-world applications<br>* 🌱 Currently improving my frontend development skills<br><br>---<br><br>⭐ *Thanks for visiting my profile!*<br>
 
-<!--
-**kaminikhandare51/kaminikhandare51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gayu_khandare2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaminikhandare51@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kaminikhandare51&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kaminikhandare51&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaminikhandare51&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=kaminikhandare51&icon=7&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
